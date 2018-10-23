@@ -1,13 +1,17 @@
-# Alumn Under Maintenance
-Under Maintenance for alumn.co,
+# Website Under Maintenance
+Under Maintenance template
 
 source :
  
 [Codepen Timer Count](https://codepen.io/SitePoint/pen/MwNPVq)
-with a little editing on script
+with a little editing on the script
  
 Images from :
 [Unsplash](https://unsplash.com)
 
 # Screenshot
-![](/ss/alumn.png)
+![](/ss/bg.png)
+
+## How To Use 
+
+Edit count.js in resources folder
